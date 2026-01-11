@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur Besoins Matière - Injection Plastique",
+  "description": "Application industrielle de calcul des besoins en matières premières pour l'injection plastique, permettant la gestion des nomenclatures (BOM) et du planning de production.",
+  "requestFramePermissions": []
+}
